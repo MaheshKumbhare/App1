@@ -5,6 +5,3 @@ RUN yum install httpd
 
 kubernetes
 jenkin
-
-ansible
-terraform
